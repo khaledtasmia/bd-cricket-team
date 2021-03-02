@@ -1,0 +1,18 @@
+.playerInfo{
+    float: left;
+    margin-left: 10px;
+    border: 2px solid lightgray;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.playerInfo img{
+    width: 100px;
+}
+.playerInfo button{
+    border: none;
+    border-radius: 5px;
+    background-color: goldenrod;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
